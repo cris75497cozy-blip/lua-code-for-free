@@ -7,6 +7,10 @@ Simple setup: Just one command and you’re rolling.
 
 Modular design: Works as a single file or a whole folder of Lua scripts.
 
-Plug and play: Run main.lua and instantly see the magic.
+Plug and play: code and instantly see the magic. if you have alredy istalled necessary things
 
-Expandable: Add your own modules in src/ and watch it grow.
+Expandable: Add your own modules in and watch it grow.
+
+also fun fact
+i started studing python im getting better but i forgot lua full memory reset they are my old projects also now ill do same python project too
+
